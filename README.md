@@ -1,0 +1,3 @@
+# SKiDROSCOPE MAGAZINE
+
+Official one-page site for SKiDROSCOPE MAGAZINE.
